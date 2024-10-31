@@ -1,0 +1,101 @@
+Patient_ID,First_Name,Last_Name,Date_of_Birth,Gender,Blood_Pressure,Cholesterol,Diagnosis,Visit_Date,Medication,Notes,Age
+3,Anna,Johnson,1982-11-30,F,115,180,Hypertension,Unknown,,New diagnosis,25
+5,,Miller,1979-12-05,M,125,190,Unknown,01-12-2023,,Healthy,52
+10,John,Miller,02/15/1995,Non-binary,normal,195,Heart Disease,2023/01/11,Lisinopril,No concerns,Unknown
+6,Anna,Lopez,1970-01-01,F,115,190,Healthy,01-12-2023,Ibuprofen,New diagnosis,40
+8,Anna,,1990-05-14,,135,,Healthy,2023-03-03,Unknown,Healthy,23
+7,,,1980-10-10,Non-binary,180,220,Heart Disease,Unknown,Lisinopril,Follow-up,34
+7,Sara,Doe,1975-07-20,M,normal,195,,2023-03-01,Aspirin,High BP,67
+10,Joan,Doe,1982-11-30,Non-binary,high,190,Diabetes,2023-01-10,Ibuprofen,Patient improving,40
+2,John,Taylor,1970-01-01,Non-binary,120,220,Hypertension,02/25/2023,Atorvastatin,N/A,34
+6,Joan,Taylor,1975-07-20,Unknown,160,220,,2023-02-20,Aspirin,High BP,Unknown
+10,Sara,Johnson,1982-11-30,F,135,180,,Unknown,,Normal,67
+4,Lisa,Johnson,1980-10-10,Non-binary,125,,Heart Disease,2023-03-01,Metformin,Healthy,
+10,Chris,Brown,1979-12-05,Unknown,125,borderline,Diabetes,02/25/2023,Atorvastatin,Check cholesterol,Unknown
+3,Joan,Doe,1980-10-10,,160,180,Diabetes,Unknown,Ibuprofen,No concerns,34
+6,Mike,Smith,11/30/1982,Unknown,140,190,Unknown,Unknown,Unknown,Patient improving,40
+8,Anna,Taylor,1970-01-01,,135,220,Unknown,2023-01-10,Lisinopril,,67
+3,,,1988-09-09,F,140,250,Heart Disease,02/25/2023,,Normal,34
+6,Chris,Brown,Unknown,Non-binary,,215,,2023-02-20,Ibuprofen,High BP,55
+4,Pat,Brown,11/30/1982,Non-binary,160,180,Unknown,2023-01-10,Aspirin,Check cholesterol,Unknown
+5,Chris,Brown,02/15/1995,,high,220,Hypertension,2023-03-01,Lisinopril,Follow-up,40
+8,Joan,Doe,1982-11-30,Non-binary,160,borderline,Hypertension,2023-03-03,Lisinopril,High BP,34
+2,Mike,Smith,1979-12-05,Non-binary,160,200,Unknown,Unknown,,,Unknown
+8,John,Doe,Unknown,,180,borderline,,2023-02-14,Ibuprofen,No concerns,Unknown
+8,Sara,,Unknown,Non-binary,120,borderline,,02/25/2023,,Normal,Unknown
+7,Anna,Lopez,1982-11-30,Non-binary,115,,,2023-03-03,Ibuprofen,High BP,25
+2,Joan,Doe,1975-07-20,M,135,,Heart Disease,2023-03-03,Aspirin,Follow-up,52
+7,John,Smith,1970-01-01,,160,borderline,Healthy,"March 5, 2023",Atorvastatin,No concerns,
+5,Joan,Smith,1979-12-05,,140,high,Diabetes,01-12-2023,Atorvastatin,Healthy,55
+4,,Smith,1979-12-05,Unknown,,high,Healthy,01-12-2023,Unknown,High BP,23
+2,Joan,Lopez,1970-01-01,F,,215,Healthy,2023-03-01,Lisinopril,No concerns,34
+,Anna,Lopez,1975-07-20,Non-binary,135,high,Unknown,2023-03-03,Unknown,Healthy,40
+7,Mike,Miller,1982-11-30,F,180,190,Hypertension,Unknown,Unknown,Check cholesterol,52
+3,Anna,Smith,1990-05-14,F,,,Healthy,2023-02-14,Unknown,New diagnosis,40
+7,Chris,,1980-10-10,,180,180,Diabetes,2023/01/11,Atorvastatin,Follow-up,40
+10,,Doe,11/30/1982,Non-binary,115,200,,"March 5, 2023",,High BP,52
+10,Sam,Johnson,02/15/1995,Unknown,160,215,Heart Disease,2023-03-01,Lisinopril,Healthy,
+6,Pat,Taylor,1975-07-20,Unknown,125,180,Healthy,01-12-2023,Lisinopril,High BP,25
+5,Mike,Smith,1990-05-14,F,125,high,Hypertension,2023-03-03,,High BP,25
+5,Anna,Johnson,1988-09-09,,120,180,Diabetes,2023-01-10,Aspirin,New diagnosis,67
+10,Anna,Doe,1982-11-30,,120,200,Heart Disease,02/25/2023,Ibuprofen,Normal,52
+7,Joan,Lopez,1982-11-30,,120,high,Healthy,2023-02-20,Lisinopril,Normal,25
+1,Sara,Johnson,1982-11-30,F,180,180,Diabetes,2023-02-14,Metformin,N/A,52
+7,Lisa,Johnson,1980-10-10,,normal,250,Diabetes,2023-03-01,Lisinopril,,
+4,John,Doe,1988-09-09,F,125,borderline,,"March 5, 2023",Ibuprofen,Patient improving,52
+10,Anna,Doe,1988-09-09,F,135,200,Heart Disease,Unknown,Aspirin,Normal,
+6,Lisa,Doe,1975-07-20,Non-binary,160,195,,2023-01-10,Aspirin,New diagnosis,23
+4,John,Smith,1988-09-09,Non-binary,180,,Heart Disease,Unknown,Unknown,Healthy,55
+5,,Miller,1975-07-20,M,high,220,Unknown,02/25/2023,Lisinopril,Check cholesterol,47
+8,Joan,Smith,1970-01-01,F,,high,Healthy,01-12-2023,Lisinopril,No concerns,52
+10,Lisa,Lopez,02/15/1995,,high,high,Healthy,Unknown,Aspirin,No concerns,Unknown
+5,,Doe,1988-09-09,,140,borderline,,2023/01/11,Metformin,Patient improving,47
+2,Sara,Johnson,1979-12-05,F,120,high,Heart Disease,2023-01-10,Lisinopril,Healthy,25
+5,Pat,Smith,1975-07-20,Unknown,normal,borderline,Diabetes,2023-01-10,Aspirin,Healthy,67
+10,Lisa,Johnson,1980-10-10,F,160,215,Unknown,Unknown,Atorvastatin,N/A,23
+7,Anna,Taylor,1980-10-10,F,180,,Diabetes,2023-02-20,Metformin,Healthy,52
+2,,Taylor,1970-01-01,Unknown,160,borderline,Healthy,01-12-2023,Atorvastatin,Check cholesterol,52
+4,Pat,Lopez,1979-12-05,Unknown,115,,Unknown,2023/01/11,Atorvastatin,No concerns,23
+,Joan,Lopez,1979-12-05,,125,180,,2023-03-03,Metformin,Patient improving,55
+1,,Smith,1988-09-09,F,140,180,Diabetes,2023-03-03,Unknown,Normal,55
+4,,Miller,1980-10-10,F,115,borderline,Diabetes,Unknown,Ibuprofen,New diagnosis,34
+7,Joan,Johnson,1988-09-09,M,135,195,Diabetes,2023-03-03,Metformin,Follow-up,55
+3,Sara,Lopez,1975-07-20,F,135,215,Diabetes,2023-01-10,Metformin,Normal,52
+4,John,Smith,Unknown,,115,250,Healthy,02/25/2023,Atorvastatin,No concerns,67
+4,Chris,Miller,1979-12-05,M,135,190,,2023-02-20,Aspirin,High BP,Unknown
+3,Lisa,Miller,1979-12-05,M,180,180,Healthy,2023-02-14,Ibuprofen,High BP,55
+6,Chris,Brown,02/15/1995,M,180,high,Unknown,2023-02-14,Metformin,Check cholesterol,25
+,Chris,Doe,02/15/1995,Non-binary,120,high,Heart Disease,02/25/2023,Unknown,No concerns,47
+10,,Johnson,02/15/1995,F,160,180,Healthy,2023/01/11,Lisinopril,New diagnosis,40
+3,Anna,Brown,11/30/1982,,140,high,Healthy,Unknown,Metformin,Patient improving,Unknown
+7,Pat,Lopez,1988-09-09,Non-binary,,high,Hypertension,2023-03-03,,High BP,
+4,Sam,Taylor,1979-12-05,Unknown,125,220,Hypertension,2023-02-20,Metformin,Normal,47
+6,John,Miller,1970-01-01,Non-binary,115,220,Hypertension,Unknown,Atorvastatin,Healthy,34
+,Lisa,Johnson,1990-05-14,Unknown,160,180,,2023-01-10,Aspirin,Healthy,25
+5,Pat,Doe,11/30/1982,F,115,195,Hypertension,Unknown,Unknown,High BP,40
+,Joan,,02/15/1995,F,180,borderline,Unknown,2023/01/11,Aspirin,Patient improving,67
+2,Pat,Lopez,1988-09-09,M,125,180,Unknown,"March 5, 2023",Atorvastatin,High BP,47
+5,Lisa,Taylor,Unknown,Unknown,180,250,Diabetes,Unknown,Lisinopril,Follow-up,23
+8,Lisa,Lopez,1975-07-20,M,120,220,Unknown,01-12-2023,Atorvastatin,No concerns,
+1,Sam,,1970-01-01,Non-binary,125,200,Healthy,2023-03-03,Ibuprofen,No concerns,34
+10,Sam,Smith,1975-07-20,,135,180,Heart Disease,01-12-2023,Atorvastatin,High BP,40
+10,Joan,Smith,1990-05-14,,normal,200,Diabetes,2023/01/11,Lisinopril,Check cholesterol,47
+10,Sara,Lopez,1980-10-10,M,115,190,Hypertension,2023-03-01,Metformin,Follow-up,40
+,Lisa,Brown,1980-10-10,Non-binary,,195,Diabetes,"March 5, 2023",Aspirin,Normal,23
+8,Chris,Lopez,1990-05-14,,160,high,Diabetes,"March 5, 2023",Ibuprofen,Healthy,55
+7,Joan,Doe,1979-12-05,Non-binary,125,180,,2023-03-03,Atorvastatin,Healthy,55
+8,,Smith,1970-01-01,Non-binary,125,180,Hypertension,Unknown,,Patient improving,67
+3,Sam,Miller,1988-09-09,F,120,215,Unknown,2023/01/11,Unknown,No concerns,Unknown
+10,,Miller,Unknown,M,140,220,Hypertension,"March 5, 2023",Ibuprofen,Healthy,34
+1,,Doe,1982-11-30,,140,,Healthy,2023-02-14,Unknown,No concerns,25
+7,Anna,Doe,1979-12-05,F,high,,Heart Disease,2023-02-14,Metformin,High BP,23
+4,Pat,Taylor,1988-09-09,F,180,200,Healthy,Unknown,Aspirin,Normal,55
+,Lisa,Johnson,1982-11-30,M,180,200,Hypertension,Unknown,Atorvastatin,N/A,47
+7,Pat,Brown,02/15/1995,M,normal,220,Unknown,2023-02-14,Unknown,,23
+3,Lisa,Brown,1982-11-30,,160,high,Healthy,Unknown,Ibuprofen,No concerns,47
+5,Joan,Lopez,02/15/1995,Non-binary,125,high,Healthy,2023-02-20,Metformin,Healthy,23
+4,Chris,Brown,1988-09-09,F,,215,Healthy,Unknown,Metformin,New diagnosis,25
+1,Chris,Brown,1970-01-01,F,135,215,Unknown,2023-03-01,Aspirin,New diagnosis,23
+,Joan,Johnson,1988-09-09,,,215,Unknown,01-12-2023,Ibuprofen,N/A,40
+7,Joan,Johnson,1975-07-20,,125,220,Diabetes,01-12-2023,,Follow-up,34
+10,Anna,Brown,02/15/1995,F,high,200,Diabetes,2023-03-01,Atorvastatin,High BP,55
