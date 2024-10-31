@@ -38,7 +38,7 @@ The following SQL queries were used to clean the dataset:
 - **[sample_output.csv](./sample_output.csv)**: Cleaned dataset after SQL transformations.
 
 ## How to Use
-1. Load the `dataset.sql` file into your SQL database.
+1. Load the `dataset.csv` file into your SQL database.
 2. Run each query from `cleaning_queries.sql` step-by-step to observe the cleaning process.
 3. Verify the cleaned dataset by exporting the final result to `sample_output.csv`.
 
