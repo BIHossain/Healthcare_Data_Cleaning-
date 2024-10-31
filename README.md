@@ -33,7 +33,7 @@ The following SQL queries were used to clean the dataset:
    - Removed or flagged inconsistent values in `Medication` and `Notes`.
 
 ## Project Files
-- **dataset.sql**: SQL file containing the raw dataset.
+- **dataset.csv**: csv file containing the raw dataset.
 - **cleaning_queries.sql**: SQL file with the data cleaning queries.
 - **sample_output.csv**: Cleaned dataset after SQL transformations.
 - **README.md**: Project documentation.
